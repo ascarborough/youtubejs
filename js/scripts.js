@@ -1,5 +1,5 @@
 // Scripts
 $('#video').YTPlayer({
     fitToBackground: true,
-    videoId: 'LSmgKRx5pBo'
+    videoId: '_bG0NslD3HM'
 });
